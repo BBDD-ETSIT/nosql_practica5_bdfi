@@ -15,16 +15,16 @@ Enunciado disponible en pdf en Moodle
 El proyecto debe clonarse en el ordenador desde el que se está trabajando:
 
 ```
-$ git clone https://github.com/ebarra/nosql_practica3
+$ git clone https://github.com/BBDD-ETSIT/nosql_practica3_bdfi
 ```
 A continuación se debe acceder al directorio de trabajo y abrir el fichero index.html con el editor de la elección del alumno.
 
 ```
-$ cd nosql_practica3
+$ cd nosql_practica3_bdfi
 ```
-## Prueba de la práctica 
+## Prueba de la práctica
 
-Para ayudar al desarrollo, se provee una herramienta de autocorrección que prueba las distintas funcionalidades que se piden en el enunciado. Para utilizar esta herramienta debes tener node.js (y npm) ([https://nodejs.org/es/](https://nodejs.org/es/)) y Git instalados. 
+Para ayudar al desarrollo, se provee una herramienta de autocorrección que prueba las distintas funcionalidades que se piden en el enunciado. Para utilizar esta herramienta debes tener node.js (y npm) ([https://nodejs.org/es/](https://nodejs.org/es/)) y Git instalados.
 
 Para instalar y hacer uso de la [herramienta de autocorrección](https://www.npmjs.com/package/autocorector) en el ordenador local, ejecuta los siguientes comandos en el directorio del proyecto:
 
@@ -56,4 +56,3 @@ $ npx autocorector --upload
 ```
 
 La herramienta de autocorrección preguntará por el correo del alumno y el token de Moodle. En el enlace [https://www.npmjs.com/package/autocorector](https://www.npmjs.com/package/autocorector) se proveen instrucciones para encontrar dicho token.
-
