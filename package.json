@@ -1,14 +1,14 @@
 {
-	"name": "nosql_practica3",
-	"author": "anmunoz",
-	"license": "GNU",
-	"version": "0.0.0",
-	"info": {
-        "githubURL": "BBDD-ETSIT/nosql_practica3_bdfi",
-        "serverUrl": "https://autocorector.dit.upm.es/",
-        "courseId": "899",
-        "assignmentId": "7762"
-    },
+	"name": "nosql_practica5_bdfi",
+    	"author": "anmunoz",
+    	"license": "GNU",
+    	"version": "0.0.0",
+    	"info": {
+		"githubURL": "BBDD-ETSIT/nosql_practica5_bdfi",
+		"serverUrl": "https://autocorector.dit.upm.es/",
+		"courseId": "899",
+		"assignmentId": "7764"
+    	},
 	"scripts": {
 		"start": "node rest_server.js",
 		"seed": "md-seed run",
