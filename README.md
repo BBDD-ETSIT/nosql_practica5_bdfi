@@ -36,13 +36,13 @@ Abra un terminal en su ordenador y siga los siguientes pasos.
 El proyecto debe clonarse en el ordenador desde el que se está trabajando con:
 
     ```
-    $ git clone https://github.com/BBDD-ETSIT/nosql_practica3_bdfi.git
+    $ git clone https://github.com/BBDD-ETSIT/nosql_practica5_bdfi.git
     ```
 
 y entrar en el directorio de trabajo
 
     ```
-    $ cd nosql_practica3_bdfi
+    $ cd nosql_practica5_bdfi
     ```
 
 Una vez dentro de la carpeta, se instalan las dependencias con:
