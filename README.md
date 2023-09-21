@@ -81,7 +81,7 @@ Por último, si **cree que ha realizado alguna configuración mal, se recomienda
 
     Una vez arrancado, desde otro terminal, nos conectamos al servidor que va a actuar como primario
     ```
-    mongo --host localhost:27001
+    mongosh --host localhost:27001
     ```
     Inicialice el replicaSet del config server como hemos visto en las trasparencias de clase, teniendo en cuenta que solo hay una instancia de mongo dentro del clúster y que debemos especificar que se trata de un config server.
 
