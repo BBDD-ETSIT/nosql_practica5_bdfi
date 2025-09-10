@@ -9,3 +9,6 @@ data/
 .vscode
 .idea
 miscapturas
+package-lock.json
+yarn.lock
+.DS_Store
